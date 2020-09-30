@@ -1,0 +1,47 @@
+.App {
+  background-color: #fff;
+  width: 800px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  display: flex;
+}
+
+.App-header > img {
+  width: 120px;
+  height: 120px;
+}
+
+.App-header > h1 {
+  padding-left: 10px;
+  padding-top: 30px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.formContainer {
+  border: 1px solid lightgrey;
+  padding: 10px;
+}
