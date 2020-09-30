@@ -1,0 +1,101 @@
+[
+  {
+    "Id": 1,
+    "Name": "Andy",
+    "Base": "Munich",
+    "WorkDays": [
+      "Monday",
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "ScheduledFlight": [
+      {
+        "DepartureDateTime": "2020-09-30T08:29:52.8458231+01:00",
+        "ReturnDateTime": "2020-09-30T10:29:52.8459043+01:00"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Betty",
+    "Base": "Munich",
+    "WorkDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "ScheduledFlight": null
+  },
+  {
+    "Id": 3,
+    "Name": "Callum",
+    "Base": "Munich",
+    "WorkDays": [
+      "Wednesday",
+      "Thursday",
+      "Saturday",
+      "Sunday"
+    ],
+    "ScheduledFlight": null
+  },
+  {
+    "Id": 4,
+    "Name": "Daphne",
+    "Base": "Munich",
+    "WorkDays": [
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "ScheduledFlight": null
+  },
+  {
+    "Id": 5,
+    "Name": "Elvis",
+    "Base": "Berlin",
+    "WorkDays": [
+      "Monday",
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "ScheduledFlight": null
+  },
+  {
+    "Id": 6,
+    "Name": "Freida",
+    "Base": "Berlin",
+    "WorkDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "ScheduledFlight": null
+  },
+  {
+    "Id": 7,
+    "Name": "Greg",
+    "Base": "Berlin",
+    "WorkDays": [
+      "Wednesday",
+      "Thursday",
+      "Saturday",
+      "Sunday"
+    ],
+    "ScheduledFlight": null
+  },
+  {
+    "Id": 8,
+    "Name": "Hermione",
+    "Base": "Berlin",
+    "WorkDays": [
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "ScheduledFlight": null
+  }
+]
